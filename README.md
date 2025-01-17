@@ -1,4 +1,4 @@
-![home](https://github.com/user-attachments/assets/9f93042d-b296-4f94-9385-79b299f9f5ef)
+![제목을-입력해주세요_ (3)](https://github.com/user-attachments/assets/ee2f2069-17b2-4f2b-9fc0-02b4f7a9d4a5)
 
 <!--
 **harinme/harinme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
