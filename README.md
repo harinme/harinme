@@ -8,10 +8,15 @@
 
   
 
-- 🔭 2025.01 ~ : 현재 SSAFY 13기 2학기 진행하고 있습니다.  
+- 🔭 2025.01 ~ : 현재 SSAFY 13기 2학기 진행하고 있습니다.
+  - 📖 [Livria](https://github.com/JW0304/Livria) : 개인 맞춤형 도서 추천 플랫폼
   
 
 - 🌱 2023.12 ~ 2024.07 : 'AI를 이용한 스마트 플랫폼 개발자 양성과정으로서 데이터베이스' 과정을 수료했습니다.
+  - 🖐 [Hello_Suhwa project](https://github.com/harinme/Hello_Suhwa) : 라즈베리파이를 활용한 수화 학습용 웹 플랫폼
+  - 🥜 [Peanut_project](https://github.com/harinme/peanut_project) : 불량 땅콩 검출 시스템
+  - 💧 [humidifier](https://github.com/harinme/humidifier) : 사람 감지 IoT 가습기
+  - 🍀 [Plant-project](https://github.com/harinme/plant-project) : 식물 분류 시스템
   
   
 
