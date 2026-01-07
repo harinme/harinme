@@ -8,10 +8,10 @@
 
   
 
-- 🔭 2025.01 ~ 2025.12 : 현재 SSAFY 13기 2학기 진행하고 있습니다.
-  - ✨ Tickget : 실시간 티켓팅 연습 플랫폼
-  - ⚡ WATT'S UP : Smartthings 연결을 통한 전력 사용량 분석 및 개인 맞춤형 가전 추천
-  - 💓 DA:ON : 다문화 가정 통합 지원 플랫폼(소스코드 반출 문제로 공개 불가)
+- 🔭 2025.01 ~ 2025.12 : 현재 SSAFY 13기 수료
+  - ✨ [Tickget : 실시간 티켓팅 연습 플랫폼](https://youtu.be/VxFGiqbl7nY?si=UA_E0Ahdbo5Ha1tE)(소스코드 반출 문제로 공개 불가-소개 영상)
+  - ⚡ [WATT'S UP : Smartthings 연결을 통한 전력 사용량 분석 및 개인 맞춤형 가전 추천](https://youtu.be/Lr7fOmFSdZ8?si=T8WoSIlgwSkKgE8L)(소스코드 반출 문제로 공개 불가-소개 영상)
+  - 💓 [DA:ON : 다문화 가정 통합 지원 플랫폼](https://youtu.be/5iCgdnhOeOo?si=-avLfJ3POuX0TekO)(소스코드 반출 문제로 공개 불가-소개 영상)
   - 📖 [Livria](https://github.com/harinme/Livria) : 개인 맞춤형 도서 추천 플랫폼
   
 
